@@ -2,7 +2,7 @@ package com.remoran.hackerrank.solution.introduction;
 
 import java.util.Scanner;
 
-public class Solution2DataType {
+public class Solution8DataType {
     public static void main(String[] argh) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
